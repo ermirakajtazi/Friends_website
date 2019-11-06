@@ -1,0 +1,56 @@
+{
+  "movies": [{
+    "title" : "Friends: Episode I - The One Where It All Began",
+    "episode_number" : "1",
+    "main_characters" : ["Rachel Green", "Monica Geller", "Phoebe Buffay", "Joey Tribbiani", "Chandler Bing", "Ross Geller"],
+    "description" : "Before a date with Paul the wine guy, Monica Geller is teased by her friends, Phoebe Buffay, Chandler Bing and Joey Tribbiani, at The Central Perk coffee shop. Ross Geller, Monica's older brother, arrives at the coffee shop, upset after discovering his ex-wife, a recently out lesbian, has moved out of his apartment to begin a new relationship with her partner. A young woman suddenly arrives wearing a wet wedding dress, whom Monica recognizes as her high school best friend, Rachel Green. Monica introduces her to the others as Rachel reveals she left her fiancé at the altar. After Rachel's father cuts her off financially, Monica reluctantly takes Rachel in as a new roommate.",
+    "poster" : "Friends_episode_1_poster.jpg",
+    "hero_image" : "Friends_episode_1_hero.jpg"
+  },
+
+  {
+    "title" : "Friends: Episode II - The One with the Sonogram at the End",
+    "episode_number" : "2",
+    "main_characters" : ["Rachel Green", "Monica Geller", "Phoebe Buffay", "Joey Tribbiani", "Chandler Bing", "Ross Geller"],
+    "description" : "Ross finds out his ex-wife is pregnant. Rachel returns her engagement ring to Barry. Monica becomes stressed when her and Ross's parents come to visit.",
+    "poster" : "Friends_episode_2_poster.jpg",
+    "hero_image" : "Friends_episode_2_hero.jpg"
+  },
+
+  {
+    "title" : "Friends: Episode III - The One with the Thumb",
+    "episode_number" : "3",
+    "main_characters" : ["Rachel Green", "Monica Geller", "Phoebe Buffay", "Joey Tribbiani", "Chandler Bing", "Ross Geller"],
+    "description" : "Monica becomes irritated when everyone likes her new boyfriend more than she does. Chandler resumes his smoking habit. Phoebe is given $7000 when she finds a thumb in a can of soda.",
+    "poster" : "Friends_episode_3_poster.jpg",
+    "hero_image" : "Friends_episode_3_hero.jpg"
+  },
+
+  {
+    "title" : "Friends: Episode IV - The One with the Metaphorical Tunnel",
+    "episode_number" : "4",
+    "main_characters" : ["Rachel Green", "Monica Geller", "Phoebe Buffay", "Joey Tribbiani", "Chandler Bing", "Ross Geller"],
+    "description" : "Chandler tries to get over his fear of commitment. Phoebe poses as Joey's agent after she forgets to tell him about an audition. Ross panics after seeing Ben play with a Barbie doll and tries to convince him to play with more manly toys.",
+    "poster" : "Friends_episode_4_poster.jpg",
+    "hero_image" : "Friends_episode_4_hero.jpg"
+  },
+
+  {
+    "title" : "Friends: Episode V - The One with the East German Laundry Detergent",
+    "episode_number" : "5",
+    "main_characters" : ["Rachel Green", "Monica Geller", "Phoebe Buffay", "Joey Tribbiani", "Chandler Bing", "Ross Geller"],
+    "description" : "Eager to spend time with Rachel, Ross pretends his washroom is rat-infested so he can join her at the laundromat. Meanwhile, Joey has Monica pose as his girlfriend, and Chandler struggles to break up with his girlfriend.",
+    "poster" : "Friends_episode_5_poster.jpg",
+    "hero_image" : "Friends_episode_5_hero.jpg"
+  },
+
+  {
+    "title" : "Friends: Episode VI - The One That Could Have Been",
+    "episode_number" : "6",
+    "main_characters" : ["Rachel Green", "Monica Geller", "Phoebe Buffay", "Joey Tribbiani", "Chandler Bing", "Ross Geller"],
+    "description" : "When Rachel hears Barry and Mindy are getting divorced, the gang wonder how different their lives could have been.",
+    "poster" : "Friends_episode_6_poster.jpg",
+    "hero_image" : "Friends_episode_6_hero.jpg"
+  }]
+
+}
